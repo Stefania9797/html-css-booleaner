@@ -15,3 +15,10 @@ h1{
 .yellow{
     background-color: yellow;
 }
+thead{
+    background-color: blue;
+    color: white;
+}
+td{
+    width: 400px;
+}
