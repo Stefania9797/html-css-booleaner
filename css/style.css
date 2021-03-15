@@ -18,12 +18,15 @@ thead{
     background-color: #20a9e5;
     color: white;
 }
-table{
+table {
+    text-align: left;
+    table-layout: fixed ;
+    width: 100% ;
     border-spacing: 0;
-}
-td{
-    width: 500px;
-}
+  }
+  td {
+    width: 25% ;
+  }
 #monitor-img{
     height: 208px;
     width: 312px;
