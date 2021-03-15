@@ -18,8 +18,11 @@ thead{
     background-color: #20a9e5;
     color: white;
 }
+table{
+    border-spacing: 0;
+}
 td{
-    width: 400px;
+    width: 500px;
 }
 #monitor-img{
     height: 208px;
